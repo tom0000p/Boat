@@ -29,16 +29,6 @@
 <body>
 	
 
-<div id="info">
-    webgl tutorial 5-1 Dynamic Drive<br/><br/>
-	Home to start<br/>
-	Space to stop<br/>
-	Left/Right to turn <br/>
-	Up/Down to accelerate/decelerate<br/>
-   
-   
-	<br/>
-</div>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r70/three.min.js"></script>
